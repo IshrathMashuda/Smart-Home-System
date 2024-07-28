@@ -20,8 +20,3 @@ The Smart Home System is a simulation application that enables users to manage a
 - Java Development Kit (JDK) 11 or later
 - Command Line Interface (CLI) or Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse
 
-### Installation
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/IshrathMashuda/SmartHomeSystem.git
